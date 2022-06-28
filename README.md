@@ -3,7 +3,7 @@
 Aplicativo gerador de múltiplas senhas aleatórias de alta segurança.
 
 // Skills para o desenvolvimento do app:
-Conceitos em NavigatonController; manipulação de dados entre as segues; classes; arrays; lógica de programação.
+Conceitos em NavigatonController; manipulação de dados entre as segues; constraints; storyboard; classes; arrays; lógica de programação.
 
 
 # View 1:
