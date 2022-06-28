@@ -1,4 +1,4 @@
-# app-SuperSenha!
+# app-SuperSenha
 
 Aplicativo gerador de senhas aleatórias
 
